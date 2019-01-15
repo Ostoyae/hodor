@@ -1,1 +1,2 @@
-hodor
+# Hodor - cheat online voting constests
+
